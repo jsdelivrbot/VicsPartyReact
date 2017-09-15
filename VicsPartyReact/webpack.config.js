@@ -5,7 +5,7 @@ module.exports = {
     "./ClientApp/main.js"
   ],
   "output": {
-    "path": "ClientApp/bundle",
+    "path": "wwwroot/js/",
     "publicPath": "/",
     "filename": "bundle.js"
   },

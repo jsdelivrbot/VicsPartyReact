@@ -71,7 +71,7 @@
 	    );
 	};
 
-	_reactDom2.default.render(_react2.default.createElement(App, null), document.getElementsByTagName("body")[0]);
+	_reactDom2.default.render(_react2.default.createElement(App, null), document.getElementById("myApp"));
 
 /***/ }),
 /* 2 */
