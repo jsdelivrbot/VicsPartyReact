@@ -36,6 +36,8 @@ namespace VicsPartyReact
             {
                 app.UseExceptionHandler("/Home/Error");
             }
+
+
             app.UseDefaultFiles();
             app.UseStaticFiles();
 
